@@ -1,5 +1,5 @@
 # coding_shuttle_news
-Front-end News website using html , css and javascript
+Front-end News website using html , css and javascript. 
 
 <h1>Link....</h1>
 
